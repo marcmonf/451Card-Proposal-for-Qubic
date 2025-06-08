@@ -89,7 +89,12 @@ Full support for contactless, e-commerce, POS, and ATM use*
 *ATM usage only available in Black level
 
 **Card** **Tiers**
+### Card Tiers
 
+| Tier      | Description |
+|-----------|-------------|
+| **Black** | Exclusive Tier. Limited to 100 units. Price per unit: 999$. Physical Card. Recharge fee: 5%. ATM withdrawal unlimited. Unlimited spending limit. Configurable on Apple Pay & Google Pay |
+| **Platinum** | Limited to 676 units. Price per unit: 149$. Virtual Card, configurable on Apple Pay & Google Pay. Recharge fee: 6.5%. No ATM withdrawal capabilities. Spending limit up to **100,000$/month**. |
 
 
 **Adoption** **&** **Impact**
@@ -226,22 +231,8 @@ Together, we take QUBIC to the world.
 | 等级 | 描述 |
 |------|------|
 | **黑卡** | 专属等级。限量 100 张。每张价格：999 美元。实体卡。充值费：5%。ATM 提现无限制。消费无上限。支持 Apple Pay 和 Google Pay。 |
-| **白金卡** | 限量 676 张。每张价格：149 美元。虚拟卡，支持 Apple Pay 和 Google Pay。充值费：6.5%。不支持 ATM 提现。每月消费限额：**100,000 美元**。 |
+| **白金卡** | 限量 676 张。每张价格：149 美元。虚拟卡，支持 Apple Pay 和 Google Pay。充值费：6.5%。不支持 ATM 提现。每月消费限额为 **100,000 美元**。 |
 
-| 等级 | 描述 |
-|------|------|
-| 黑卡 | 独家等级，限量 100 张，每张价格 999 美元。实体卡。充值费率：5%。ATM 提现无限制。消费无上限。支持绑定 Apple Pay 与 Google Pay。 |
-| 白金卡 | 限量 676 张，每张价格 149 美元。虚拟卡，支持 Apple Pay 与 Google Pay。充值费率：6.5%。不支持 ATM 提现。每月消费限额：100,000 美元。 |
-
-| 等级 | 描述 |
-|------|------|
-| 黑卡 | 独家等级，限量 100 张，每张价格 999 美元。实体卡。充值费率：5%。ATM 提现无限制。消费无上限。支持绑定 Apple Pay 与 Google Pay。 |
-| 白金卡 | 限量 676 张，每张价格 149 美元。虚拟卡，支持 Apple Pay 与 Google Pay。充值费率：6.5%。不支持 ATM 提现。每月消费限额：100,000 美元。 |
-
-| 等级 | 描述 |
-|------|------|
-| 黑卡 | 独家等级，限量 100 张，每张价格 999 美元。实体卡。充值费率：5%。ATM 提现无限制。消费无上限。支持绑定 Apple Pay 与 Google Pay。 |
-| 白金卡 | 限量 676 张，每张价格 149 美元。虚拟卡，支持 Apple Pay 与 Google Pay。充值费率：6.5%。不支持 ATM 提现。每月消费限额：100,000 美元。 |
 
 ## 采用与影响
 
