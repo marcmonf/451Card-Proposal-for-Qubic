@@ -22,7 +22,8 @@ Exclusivity for QUBIC during the next 6 months, to be the first protocol in onbo
 
 **Option 0: No, do not support 451Card**
 
-**Option 1: Yes, approve 135.71bln QUBIC to wallet ($190,000 at 1400 USD per billion):** **451Card Wallet:** **XQTDKLDPZPGWTBFCYONEKPYSPDWAYGBDITPOPDKXXEXWHZYQPCMFNBTBFGIA**
+**Option 1: Yes, approve 135.71bln QUBIC to wallet ($190,000 at 1400 USD per billion):** 
+**451Card Wallet:** **XQTDKLDPZPGWTBFCYONEKPYSPDWAYGBDITPOPDKXXEXWHZYQPCMFNBTBFGIA**
 
 
 
