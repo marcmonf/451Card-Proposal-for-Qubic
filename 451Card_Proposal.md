@@ -22,7 +22,7 @@ Exclusivity for QUBIC during the next 6 months, to be the first protocol in onbo
 
 **Option 0: No, do not support 451Card**
 
-**Option 1: Yes, approve 80,246,913,580 QUBIC to wallet ($130,000 at 1620 USD per billion):** **451Card Wallet:** **XQTDKLDPZPGWTBFCYONEKPYSPDWAYGBDITPOPDKXXEXWHZYQPCMFNBTBFGIA**
+**Option 1: Yes, approve 49,382,716,494 QUBIC to wallet ($80,000 at 1620 USD per billion):** **451Card Wallet:** **XQTDKLDPZPGWTBFCYONEKPYSPDWAYGBDITPOPDKXXEXWHZYQPCMFNBTBFGIA**
 
 
 
@@ -95,9 +95,9 @@ Full support for contactless, e-commerce, POS, and ATM use*
 
 | Tier      | Description |
 |-----------|-------------|
-| **Lite** | Common Tier. Price per unit: 99$. Virtual Card. Recharge fee: 7.5%. Spending limit up to **50,000$/month**. Configurable on Apple Pay & Google Pay |
-| **Platinum** | Upgrade Tier. Price per unit: 149$. Virtual Card, configurable on Apple Pay & Google Pay. Recharge fee: 7%. No ATM withdrawal capabilities. Spending limit up to **100,000$/month**. |
-| **Black** | Exclusive Tier. Price per unit: 299$. Physical Card. Recharge fee: 6%. ATM withdrawal unlimited. Unlimited spending limit. Configurable on Apple Pay & Google Pay |
+| **Lite** | Common Tier. Price per unit: 99$/year, billed at issuing. Virtual Card. Recharge fee: 6.0%. Spending limit up to **50,000$/month**. Configurable on Apple Pay & Google Pay |
+| **Platinum** | Upgrade Tier. Price per unit: 149$/year, billed at issuing. Virtual Card, configurable on Apple Pay & Google Pay. Recharge fee: 5.5%. No ATM withdrawal capabilities. Spending limit up to **100,000$/month**. |
+| **Black** | Exclusive Tier. Price per unit: 199$/billed at issuing. Physical Card. Recharge fee: 4.5%. ATM withdrawal unlimited. Unlimited spending limit. Configurable on Apple Pay & Google Pay |
 
 
 
@@ -125,13 +125,10 @@ We request funding from the Qubic DAO to cover:
 
 | Category                         | Estimated Budget (USD)   |
 |:---------------------------------|:-------------------------|
-| Direct Conversion Development    | $20,000                  |
-| WebApp (Frontend & Backend)      | $20,000                  |
-| Card Program Integration/API fee | $25,000                  |
-| Security Audits & QA             | $25,000                  |
+| WebApp dev Sec Aud & QA & Bridge | $40,000                  |
 | Marketing, Launch & Ops          | $10,000                  |
 | Cards Supplier fee               | $30,000                  |
-| Total Requested                  | $130,000                 |
+| Total Requested                  | $80,000                 |
 
 All funds to be managed transparently.
 
@@ -165,127 +162,148 @@ Together, we take QUBIC to the world.
 
 ---
 
-**451Card：为 Qubic 打造的现实世界消费分级 Off-Ramp 卡解决方案**
+**451Card：用於 Qubic 現實世界消費的分級 Off-Ramp 卡解決方案**
 
-**执行摘要**
+**執行摘要**
 
-本提案介绍了 **451Card**，一个三层级的国际支付卡计划（Lite、Black 和 Platinum），旨在为 QUBIC 用户提供一个**安全、自托管的 off-ramp 出金通道**，使其能够在任何接受标准卡支付的商户使用 QUBIC 消费。该系统将完全符合隐私、主权和去中心化原则。
+本提案提出 **451Card**，這是一項三層級的國際卡計劃（Lite、Black 和 Platinum），為 QUBIC 用戶提供一個**安全、自我託管的出金渠道**，讓他們能夠透過任何接受標準卡支付的商戶在現實世界中使用 QUBIC。該系統將完全符合隱私、主權與去中心化原則。
 
-该项目结合了 **QUBIC ↔ USDT 的兑换桥**、一个**自托管 WebApp** 和一个**实时卡充值系统**，在保障链上问责和以用户为中心的设计基础上，为 QUBIC 持有者解锁现实使用场景。
+透過結合 **QUBIC ↔ USDT 橋接**、**自我託管 Web 應用** 以及 **即時卡片充值基礎設施**，本項目在保持鏈上透明度與以用戶為中心的設計下，解鎖 QUBIC 的實際應用價值。
 
-本提案包括以下内容：
+本提案包含以下組件：
 
-- 一个中心化的 **QUBIC ↔ USDT 直接兑换系统**  
-- 一个用于用户注册和资金管理的 **自托管钱包 WebApp**  
-- 与支持程序化充值的卡发行方通过 **API 集成**  
-- 推出 **3 个限量卡等级**（Lite、Black 和 Platinum），各自具有独特权益和限量发行  
-- QUBIC 拥有未来 6 个月的独家权限，率先推出该计划  
+- 一個中心化的 **QUBIC ↔ USDT 直接兌換平台**
+- 一個用於用戶註冊與資金管理的 **自託管錢包 WebApp**
+- 與支持程序化充值的發卡機構進行 **API 整合**
+- 推出 **3 種限量專屬卡等級**（Lite、Black 和 Platinum），各自具備獨特權益與數量限制
+- QUBIC 在接下來 6 個月內享有專屬權，作為首個實施此項計劃的協議
 
-**🗳 投票选项**
+**🗳 投票選項**
 
-**选项 0：否，不支持 451Card**  
-**选项 1：是，批准向钱包拨款 80,246,913,580 QUBIC（按每十亿 1620 美元计算，即 130,000 美元）：**  
-**451Card 钱包：**  
+**選項 0：否，不支持 451Card**
+
+**選項 1：是，批准向錢包撥款 49,382,716,494 QUBIC（以每十億 1620 美元計，總計 80,000 美元）：**  
+**451Card 錢包地址：**  
 **XQTDKLDPZPGWTBFCYONEKPYSPDWAYGBDITPOPDKXXEXWHZYQPCMFNBTBFGIA**
 
-**背景与理由**
+---
 
-尽管去中心化计算和智能合约技术快速发展，**off-ramp 仍是加密货币实现现实使用的主要障碍之一**。目前 QUBIC 用户缺乏一种直接、合规、用户可控的方式在线下或线上商户使用代币。
+**背景與理由**
 
-**451Card** 正是为了解决这一痛点而设计的。
+儘管去中心化計算與智能合約持續發展，**出金（off-ramp）仍是加密貨幣進入現實應用的一大障礙**。目前 QUBIC 用戶缺乏一種直接、合規且可控的方式，將代幣用於實體或線上商店。
 
-我们的方法结合了：
+**451Card** 正是為了解決這一問題而來。
 
-- **去中心化金融原则（自托管钱包）**  
-- **Web2 级别的可用性（全球商户接受卡支付）**  
-- **与 DAO 激励机制保持一致的透明度**
+我們的方法結合：
 
-通过让 QUBIC 在用户控制下兑换为 USDT，并链接至借记卡形式的支付结构，该项目将主要用于去中心化计算的 QUBIC 转变为可在日常消费中使用的货币。
+- **去中心化金融原則（自我託管錢包）**
+- **Web2 級使用便利性（全球卡片接受度）**
+- **與 DAO 對齊的激勵機制與透明性**
 
-**目标**
+讓 QUBIC 經由用戶控制的流程兌換為 USDT，並與借記卡式的支付基礎架構連結，該項目將主要用於去中心化運算的 QUBIC，轉變為可日常消費的貨幣。
 
-- 启动一个**三层级国际支付卡系统**（Lite、Black 和 Platinum）  
-- 实现用户通过直接兑换将 QUBIC 转换为 USDT（未来可发展为去中心化桥）  
-- 提供一个与卡片逻辑集成的**自托管钱包**  
-- 让 QUBIC 持有者能够**全球消费**，提升代币实用性  
-- 全程保持透明、隐私保护和去中心化设计  
+---
 
-**交付成果**
+**目標**
 
-**即时兑换开发（QUBIC – USDT）**  
-与 CEX 协作，通过 WebApp 实现即时兑换
+- 啟動 **三層級國際卡系統**（Lite、Black 與 Platinum）
+- 允許用戶透過直接兌換**將 QUBIC 轉換為 USDT**，未來也可拓展為去中心化橋接
+- 提供與卡片邏輯整合的 **自我託管錢包**
+- 讓 QUBIC 持有者能夠 **全球消費**，提升代幣的實用性
+- 全面維持透明性、隱私性與去中心化原則
 
-**WebApp（自托管注册与钱包）**  
-- 合规的 KYC 注册（按地区可能为可选或强制）  
-- 用户完全控制的钱包创建（自托管）  
-- QUBIC 存入、USDT 兑换及余额管理  
-- 卡充值操作界面  
+---
 
-**卡系统基础设施**  
-- 与卡服务提供商通过 API 对接：  
-  - **Lite 卡** – 基础权益  
-  - **Platinum 卡** – 普及级，标准权益  
-  - **Black 卡** – 高级权益（更高限额、礼宾服务、返现）  
-- 用户钱包到卡余额的实时充值逻辑  
-- 完整支持非接触支付、电商、POS 和 ATM*  
-  *ATM 功能仅限 Black 卡用户使用  
+**交付內容**
 
-**卡等级**
+**即時兌換開發（QUBIC – USDT）**
 
-### 卡等级说明
+與中心化交易所（CEX）合作，透過 WebApp 實現即時兌換
 
-| 等级        | 描述 |
+**WebApp（自託管註冊與錢包）**
+
+- 符合 KYC 要求的用戶註冊（視地區為選擇性或強制性）
+- 用戶完全掌控的錢包建立（非託管）
+- QUBIC 存入、USDT 兌換與餘額管理
+- 卡片充值操作介面
+
+**卡片計劃基礎架構**
+
+- 與發卡服務供應商進行 API 連接：
+  - **Lite 卡** – 基礎功能
+  - **Platinum 卡** – 更高可用性與標準福利
+  - **Black 卡** – 高端福利（更高限額、禮賓服務、返現等）
+
+- 用戶錢包到卡片餘額的即時充值邏輯
+- 完整支援感應支付、電商、POS 與 ATM 使用*
+
+\* ATM 功能僅限 Black 等級提供
+
+---
+
+**卡片等級**
+
+### Card Tiers
+
+| 等級        | 描述 |
 |-------------|------|
-| **Lite**     | 普通等级。每张价格：99 美元。虚拟卡。充值费率：7.5%。每月消费限额：**50,000 美元**。支持 Apple Pay 和 Google Pay 配置 |
-| **Platinum** | 升级等级。每张价格：149 美元。虚拟卡，支持 Apple Pay 和 Google Pay。充值费率：7%。不支持 ATM 提现。每月消费限额：**100,000 美元** |
-| **Black**    | 专属等级。每张价格：299 美元。实体卡。充值费率：6%。ATM 提现无限制。无限消费额度。支持 Apple Pay 和 Google Pay 配置 |
+| **Lite**     | 一般等級。每年每張收費 99 美元（於發卡時收取）。虛擬卡。充值費率：6.0%。每月消費上限：**50,000 美元**。可配置於 Apple Pay & Google Pay |
+| **Platinum** | 升級等級。每年每張收費 149 美元（於發卡時收取）。虛擬卡。充值費率：5.5%。不支援 ATM 提現。每月消費上限：**100,000 美元**。可配置於 Apple Pay & Google Pay |
+| **Black**    | 專屬等級。每張收費 199 美元（於發卡時收取）。實體卡。充值費率：4.5%。ATM 提現無限額。消費無上限。可配置於 Apple Pay & Google Pay |
 
-**采用与影响**
+---
 
-- 使 QUBIC 可在全球超过 1 亿家商户中使用  
-- 吸引其他 Web3 用户探索并购买 QUBIC，以实现无需 KYC 的借记卡支付  
-- 为持有和使用 QUBIC 提供现实可见的价值  
-- 吸引寻求自托管金融工具的新用户  
-- 通过手续费驱动的可持续模式支持 DAO 增长  
-- 为未来奖励机制、质押整合、返现等功能铺平道路  
-- 一旦 QUBIC 桥接完成，即可顺利集成  
+**推廣與影響**
 
-**预算**
+- 讓 QUBIC 可用於超過 1 億家全球商戶
+- 吸引其他 Web3 協議用戶了解並購買 QUBIC，以享有無需 KYC 的借記卡功能
+- 為持有與使用 QUBIC 提供具體、可見的生活價值
+- 吸引尋求自我託管金融工具的新用戶
+- 透過手續費導向的可持續模型（交換費 / 分潤）支援 DAO 成長
+- 為未來的獎勵計劃、質押整合與現金回饋打下基礎
+- 一旦 QUBIC 橋接開發完成，便可進行無縫整合
 
-我们请求 Qubic DAO 提供以下资金支持：
+---
 
-| 项目类别                        | 预估预算（美元） |
-|:------------------------------|:------------------|
-| QUBIC ↔ USDT 兑换系统开发       | $20,000           |
-| WebApp（前端与后端）            | $20,000           |
-| 卡系统集成与 API 对接费用       | $25,000           |
-| 安全审计与质量保障              | $25,000           |
-| 市场推广、上线与运营            | $10,000           |
-| 卡片供应商费用                  | $30,000           |
-| **总预算**                     | **$130,000**      |
+**預算**
 
-所有资金将以完全透明方式管理。
+我們向 Qubic DAO 申請以下預算資助：
 
-**影响与可持续性**
+| 項目類別                         | 預估預算（美元） |
+|:----------------------------------|:-------------------|
+| WebApp 開發、安全審計與橋接建設      | $40,000            |
+| 行銷推廣、上線與營運                | $10,000            |
+| 卡片供應與發卡成本                  | $30,000            |
+| **總計**                          | **$80,000**        |
 
-**451Card** 是 QUBIC 实用性走向主流的重要一步，为用户提供将代币用于日常生活的理由。它将链上活动与链下可达性结合，有助于在 **Aigarth** 普及前确立 QUBIC 的实用货币地位。
+所有資金將以透明方式進行管理。
 
-通过限量发行的 Lite、Black 和 Platinum 三种卡，本项目确保了专属性、社区参与度，并建立了**基于手续费的收入路径**，可为未来的奖励机制、合作商户折扣、消费信贷及更多会员服务提供资金支持。
+---
 
-**提案人介绍**
+**影響與永續性**
 
-我们是一支拥有超过 **8 年区块链、支付和金融科技经验** 的团队。曾主导如下项目：
+**451Card** 是 QUBIC 向主流可用性邁出的關鍵一步，賦予用戶日常持有與消費該代幣的理由。它結合鏈上操作與鏈下可用性，協助 QUBIC 在 **Aigarth** 普及前奠定實用型貨幣定位。
 
-- 在欧洲创建 BTC 共同基金投资工具  
-- 推进智利和秘鲁基于 ISO 8583 的支付网络建设  
-- 为欧洲 PSP 设计并执行 SoftPOS 上市策略  
+透過限量發行的 Lite、Black 與 Platinum 卡，該項目確保專屬性與社群參與，同時建立**以手續費為主的收入模式**，為即將到來的獎勵計劃、合作商戶優惠、消費信貸與會員專屬服務提供資金支持。
 
-我们与 Qubic 的去中心化计算愿景高度一致，本提案正是我们对 Web3 实用性、用户体验和主权共存能力的实践体现。
+---
 
-**行动号召**
+**提案方簡介**
 
-让 QUBIC 具备支付能力。这不仅仅是一张卡，而是一个**去中心化金融的接入层**，让用户真正掌握自己的资金。从计算到消费，让我们共同构建 QUBIC 成为真正货币的基础设施。
+我們是一支擁有超過 **8 年區塊鏈、支付與金融科技經驗** 的團隊。過往曾參與以下專案：
 
-**请投 YES 支持 451Card。**
+- 在歐洲建立 BTC 共同基金投資工具
+- 協助智利與秘魯開展 ISO 8583 支付網路專案
+- 為歐洲 PSP 設計並執行 SoftPOS 上市策略
 
-让我们一起将 QUBIC 带向世界。
+我們深度認同 Qubic 去中心化計算的願景，本提案體現我們對實用性、用戶體驗與主權在 Web3 生態中並存的堅定信念。
+
+---
+
+**行動號召**
+
+讓 QUBIC 可被消費使用。這不只是一張卡，**它是一個去中心化的金融接入層**，賦予用戶真正的主導權。從運算到消費，讓我們共同構建 QUBIC 作為**貨幣（Currency）而非僅僅是代幣（Coin）**的基礎設施。
+
+**投 YES 支持 451Card。**
+
+讓我們一同將 QUBIC 推向世界。
