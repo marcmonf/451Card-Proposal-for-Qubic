@@ -121,6 +121,8 @@ Once the Qubic bridges are developed, an integration is feasible to increase ado
 
 **Budget**
 
+**1st Option (A)**
+
 We request funding from the Qubic DAO to cover:
 
 | Category                         | Estimated Budget (USD)   |
@@ -129,6 +131,16 @@ We request funding from the Qubic DAO to cover:
 | Marketing, Launch & Ops          | $10,000                  |
 | Cards Supplier fee               | $30,000                  |
 | Total Requested                  | $80,000                 |
+
+**2nd Option (B)**
+
+**NO EXCLUSIVITY FOR QUBIC**
+
+| Category                         | Estimated Budget (USD)   |
+|:---------------------------------|:-------------------------|
+| WebApp development               | $20,000                  |
+| Cards Supplier fee               | $30,000                  |
+| Total Requested                  | $50,000                 |
 
 All funds to be managed transparently.
 
@@ -267,6 +279,8 @@ Together, we take QUBIC to the world.
 
 **預算**
 
+**第一選項（A）**
+
 我們向 Qubic DAO 申請以下預算資助：
 
 | 項目類別                         | 預估預算（美元） |
@@ -275,6 +289,16 @@ Together, we take QUBIC to the world.
 | 行銷推廣、上線與營運                | $10,000            |
 | 卡片供應與發卡成本                  | $30,000            |
 | **總計**                          | **$80,000**        |
+
+**第二選項（B）**
+
+**不為 QUBIC 提供專屬權**
+
+| 類別                  | 預估預算（美元） |
+|:----------------------|:------------------|
+| WebApp 開發             | $20,000           |
+| 卡片供應與發卡成本        | $30,000           |
+| **申請總額**             | **$50,000**       |
 
 所有資金將以透明方式進行管理。
 
